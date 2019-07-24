@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3833b349-307d-44c1-a199-aa79e2b23b39" name="adni" url="http://10.5.30.231">
+        <fileTransfer host="10.5.30.231" port="21" rootFolder="/lustre/huangyechong/ADClassifierTorch">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
